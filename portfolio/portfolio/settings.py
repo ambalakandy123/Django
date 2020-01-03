@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'polls.apps.PollsConfig',
     'users.apps.UsersConfig',
     'crispy_forms',
+    'adminlte3',
+    'adminlte3_theme',
 
 ]
 
